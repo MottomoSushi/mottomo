@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/mottomo/static/js/main.f2c06f78.js",
+    "main.js": "/mottomo/static/js/main.564c5fc5.js",
     "static/js/787.5f49b7a8.chunk.js": "/mottomo/static/js/787.5f49b7a8.chunk.js",
     "static/media/sushi1.jpg": "/mottomo/static/media/sushi1.b15eb580f7744e745dca.jpg",
     "index.html": "/mottomo/index.html",
-    "main.f2c06f78.js.map": "/mottomo/static/js/main.f2c06f78.js.map",
+    "main.564c5fc5.js.map": "/mottomo/static/js/main.564c5fc5.js.map",
     "787.5f49b7a8.chunk.js.map": "/mottomo/static/js/787.5f49b7a8.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.f2c06f78.js"
+    "static/js/main.564c5fc5.js"
   ]
 }
